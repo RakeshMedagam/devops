@@ -1,0 +1,4 @@
+Hello Rakesh.
+Welcome to the Devops class.
+In the 1st class we discuss about GIT and GITHUB
+Here we establish aconnection between Local git and github.
