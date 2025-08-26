@@ -1,1 +1,2 @@
 ws2
+this is file2
